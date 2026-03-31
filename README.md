@@ -22,8 +22,8 @@ Provide interactive visualizations for better understanding
 
 🛠️ Tools & Technologies Used
 Power BI – Data visualization and dashboard creation
-DAX (Data Analysis Expressions) – Calculated measures and KPIs
-Excel / CSV Dataset – Data source
+DAX – Calculated measures and KPIs
+CSV Dataset – Data source
 Data Cleaning & Transformation – Power Query
 
 📂 Dataset Description
@@ -43,7 +43,7 @@ Player Performance Metrics
 Open the .pbix file in Power BI Desktop
 Use slicers to filter data (season, team, etc.)
 Explore visuals and insights interactively
-📸 Dashboard Preview
+📸 Dashboard Preview:
 
 <img width="1357" height="752" alt="image" src="https://github.com/user-attachments/assets/c853cca1-e8b6-48ca-b381-d5a829a548d2" />
 
